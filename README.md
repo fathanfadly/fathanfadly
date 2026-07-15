@@ -37,7 +37,7 @@ fathan@dev:~$ ls -la tech-stack/
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,django,docker,mysql,mongodb,git,linux,vim&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,mysql,git,nextjs,laravel,postgresql,tailwind" />
 
 </div>
 
