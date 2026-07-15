@@ -1,45 +1,84 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=220&section=header&text=Fathan%20Fadly&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Laravel%20%2B%20Next.js&descAlignY=55&descSize=18" alt="header banner" />
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Sedang+membangun+ERP+System+%F0%9F%9A%80;Belajar+Laravel+%26+Next.js+%F0%9F%8C%B1;Terbuka+untuk+kolaborasi+%F0%9F%A4%9D;Suka+ngoding+sampai+larut+%E2%9A%A1" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="mailto:fatannnfdly@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/fathanfadly"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/fathanfadly"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://fathanfadly.dev"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
-</p>
-
-<br/>
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,laravel,php,python,git,docker,vscode,linux&theme=dark" alt="Tech Stack" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=180&section=header&text=fathanfadly@github:~$&fontSize=32&fontColor=00ff00&animation=fadeIn&fontAlignY=45" width="100%" />
+
 </div>
 
-<br/>
+<br>
+
+```bash
+fathan@dev:~$ whoami
+```
+
+```yaml
+Name       : Fathan Fadly
+Role       : fullstack developer
+Location   : Yogyakarta, Indonesia
+Status     : online 
+Shell      : /bin/creativity
+Uptime     : -
+```
+
+<br>
+
+```bash
+fathan@dev:~$ cat about.md
+```
+
+- 🔭 `currently_working_on` → ERP and EMS
+- 🌱 `currently_learning`    → IoT
+- ⚡ `fun_fact`               → i like mobile legend, valorant
+
+<br>
+
+```bash
+fathan@dev:~$ ls -la tech-stack/
+```
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fathanfadly&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Statistik GitHub" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathanfadly&layout=compact&theme=radical&hide_border=true" alt="Bahasa Pemrograman Teratas" />
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,django,docker,mysql,mongodb,git,linux,vim&theme=dark" />
+
 </div>
+
+<br>
+
+```bash
+fathan@dev:~$ curl -s stats.terminal/typing
+```
 
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=fathanfadly&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF00&background=0D111700&center=true&vCenter=true&width=520&lines=%3E+Compiling+ideas+into+code...;%3E+sudo+make+me+a+sandwich;%3E+git+commit+-m+%22it+works+on+my+machine%22;%3E+System.exit(0)%3B" alt="Typing SVG" />
+
 </div>
+
+<br>
+
+```bash
+fathan@dev:~$ cat social-links.txt
+```
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fathanfadly&theme=redical&hide_border=true" alt="Activity Graph" />
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://linkedin.com/in/[linkedin])
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF00)](https://instagram.com/[instagram])
+[![Gmail](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00)](mailto:[email])
+
 </div>
+
+<br>
+
+```bash
+fathan@dev:~$ echo "thanks for stopping by!" 
+> thanks for stopping by!
+fathan@dev:~$ _
+```
 
 <div align="center">
-  <img width="100%" src="https://github-readme-trophy.vercel.app/?username=fathanfadly&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+
+<img src="https://komarev.com/ghpvc/?username=fathanfadly&label=Visitors&color=000000&style=for-the-badge" alt="Profile Views" />
+
 </div>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2E9EF7&height=100&section=footer" alt="footer wave" />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fathanfadly&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:0d1117&height=100&section=footer" width="100%" />
