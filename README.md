@@ -1,58 +1,114 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:312E81,100:7C3AED&height=190&section=header&text=Fathan%20Fadly&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,45:1E1B4B,100:7C3AED&height=220&section=header&text=Fathan%20Fadly&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20ERP%20%26%20EMS%20Builder&descAlignY=61&descSize=17&animation=fadeIn"
     width="100%"
     alt="Fathan Fadly"
   />
+
+  <br />
+
+  [![GitHub](https://img.shields.io/badge/GitHub-fathanfadly-080B16?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fathanfadly)
+  [![Location](https://img.shields.io/badge/Yogyakarta-Indonesia-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/fathanfadly)
+  [![Status](https://img.shields.io/badge/Status-Building%20and%20Learning-16A34A?style=for-the-badge)](https://github.com/fathanfadly)
 </div>
 
-<div align="center">
+<br />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=fathanfadly&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square)](https://github.com/fathanfadly)
-[![GitHub](https://img.shields.io/badge/GitHub-fathanfadly-0B1020?style=flat-square&logo=github&logoColor=white)](https://github.com/fathanfadly)
+```bash
+fathan@dev:~$ whoami
+```
 
-</div>
+```yaml
+name      : Fathan Fadly
+role      : Full-Stack Developer
+location  : Yogyakarta, Indonesia
+focus     : ERP, EMS, Web Systems, IoT
+status    : Open to collaboration
+```
 
-## About
+## `$ cat about.md`
 
-Hi, I’m **Fathan Fadly**, a Full-Stack Developer from Yogyakarta, Indonesia.
+I build practical digital systems that help teams work more efficiently.
 
-- Building ERP and EMS systems
-- Exploring Internet of Things (IoT)
-- Interested in scalable applications and clean user experiences
-- Outside coding: Mobile Legends and Valorant
+- 🔭 Currently developing ERP and EMS solutions
+- 🌱 Exploring IoT and system integration
+- 💡 Interested in scalable backend architecture and clean interfaces
+- 🎮 Outside work: Mobile Legends and Valorant
 
-## Tech Stack
+## `$ npm run test`
+
+```text
+> quality-check
+
+✓ Type safety
+✓ API integration
+✓ Database validation
+✓ UI responsiveness
+✓ Production readiness
+
+Result: PASSED
+```
+
+## `$ ls tech-stack/`
 
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,laravel,postgresql,mysql,tailwind,git&theme=dark"
+    src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,laravel,postgresql,mysql,tailwind,git,docker&theme=dark"
     alt="Technology stack"
   />
 </div>
 
-## Current Focus
+<br />
 
-| Area | Focus |
+| Area | Tools |
 | --- | --- |
-| Development | ERP & EMS |
-| Learning | IoT |
-| Frontend | React, Next.js, Tailwind CSS |
-| Backend | Node.js, Laravel |
+| Frontend | React, Next.js, TypeScript, Tailwind CSS |
+| Backend | Node.js, Laravel, REST API |
 | Database | PostgreSQL, MySQL |
+| Workflow | Git, Docker, Testing, CI/CD |
+| Current Exploration | IoT, ERP, EMS |
 
-## Principles
+## `$ git log --focus`
 
-> Build useful systems.  
-> Keep the code clean.  
-> Learn continuously.
+```text
+feat(erp): improve operational workflow
+feat(ems): build better monitoring experience
+refactor(api): make business logic more maintainable
+test(core): validate critical application flows
+```
+
+## Engineering Principles
+
+```ts
+const principles = [
+  "Build for real users",
+  "Keep code readable",
+  "Test critical flows",
+  "Improve continuously",
+];
+```
+
+## Current Mission
 
 <div align="center">
-  <sub>Thanks for visiting my profile.</sub>
+
+| Building | Learning | Playing |
+| :---: | :---: | :---: |
+| ERP & EMS Systems | IoT Integration | Mobile Legends & Valorant |
+
+</div>
+
+<br />
+
+<div align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=fathanfadly&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"
+    alt="Profile views"
+  />
 </div>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0B1020&height=110&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:1E1B4B,100:080B16&height=120&section=footer"
   width="100%"
   alt="Footer"
 />
