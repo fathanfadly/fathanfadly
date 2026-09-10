@@ -1,55 +1,91 @@
-<div align="center">
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=180&section=header&text=fathanfadly@github:~$&fontSize=32&fontColor=00ff00&animation=fadeIn&fontAlignY=45](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=180&section=header&text=fathanfadly@github:~$&fontSize=32&fontColor=00ff00&animation=fadeIn&fontAlignY=45)" width="100%" />
-</div>
-<br>
-```bash
-fathan@dev:~$ whoami
-```
+# Fathan Fadly
+
+> **Full-Stack Developer** · Yogyakarta, Indonesia  
+> Building reliable systems for real operational work.
+
+---
+
+## `$ whoami`
+
 ```yaml
-Name       : Fathan Fadly
-Role       : fullstack developer
-Location   : Yogyakarta, Indonesia
-Status     : online 
-Shell      : /bin/creativity
-Uptime     : -
+name      : Fathan Fadly
+role      : Full-Stack Developer
+location  : Yogyakarta, Indonesia
+focus     : ERP, EMS, Web Systems, IoT
+status    : Open to collaboration
 ```
-<br>
-```bash
-fathan@dev:~$ cat about.md
+
+## `$ cat about.md`
+
+I build practical web systems that help teams work faster, keep data organized, and make better decisions.
+
+- 🔭 Currently building ERP and EMS systems
+- 🌱 Currently learning IoT and system integration
+- 💡 Interested in clean architecture, reliable APIs, and useful UI
+- 🎮 Outside coding: Mobile Legends and Valorant
+
+## `$ ls tech-stack/`
+
+| Frontend | Backend | Database | Workflow |
+| --- | --- | --- | --- |
+| TypeScript | Node.js | PostgreSQL | Git |
+| JavaScript | Laravel | MySQL | Docker |
+| React | REST API | Prisma | Testing |
+| Next.js | API Integration | Database Design | Tailwind CSS |
+
+## `$ npm run quality-check`
+
+```text
+✓ Planning business flow
+✓ Building interface and API
+✓ Validating database logic
+✓ Testing important user flows
+✓ Reviewing before deployment
+
+Status: READY
 ```
-- 🔭 `currently_working_on` → ERP and EMS
-- 🌱 `currently_learning`    → IoT
-- ⚡ `fun_fact`               → i like mobile legend, valorant
-<br>
-```bash
-fathan@dev:~$ ls -la tech-stack/
+
+## `$ git log --current-focus`
+
+```text
+feat(erp): improve operational workflow
+feat(ems): build monitoring and reporting features
+refactor(api): keep business logic maintainable
+test(core): validate critical application flows
+learn(iot): explore device and system integration
 ```
-<div align="center">
-<img src="[https://skillicons.dev/icons?i=js,ts,react,nodejs,mysql,git,nextjs,laravel,postgresql,tailwind](https://skillicons.dev/icons?i=js,ts,react,nodejs,mysql,git,nextjs,laravel,postgresql,tailwind)" />
-</div>
-<br>
-```bash
-fathan@dev:~$ curl -s stats.terminal/typing
+
+## Current Focus
+
+| Building | Learning | Improving |
+| --- | --- | --- |
+| ERP & EMS | IoT | System architecture |
+| Web applications | Integration | Testing |
+| Business tools | Automation | User experience |
+
+## Engineering Principles
+
+```ts
+const principles = [
+  "Build for real users",
+  "Keep code simple and maintainable",
+  "Test critical business flows",
+  "Improve continuously",
+];
 ```
-<div align="center">
-<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF00&background=0D111700&center=true&vCenter=true&width=520&lines=%3E+Compiling+ideas+into+code...;%3E+sudo+make+me+a+sandwich;%3E+git+commit+-m+%22it+works+on+my+machine%22;%3E+System.exit(0)%3B](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF00&background=0D111700&center=true&vCenter=true&width=520&lines=%3E+Compiling+ideas+into+code...;%3E+sudo+make+me+a+sandwich;%3E+git+commit+-m+%22it+works+on+my+machine%22;%3E+System.exit(0\)%3B)" alt="Typing SVG" />
-</div>
-<br>
-```bash
-fathan@dev:~$ cat social-links.txt
+
+## Beyond Code
+
+```text
+🎮 Mobile Legends
+🎯 Valorant
+☕ Coffee and new technology
 ```
-<div align="center">
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00)\]\(https://linkedin.com/in/[linkedin](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00\)](https://linkedin.com/in/[linkedin)])
-[![Instagram]([https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF00)\]\(https://instagram.com/[instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF00\)](https://instagram.com/[instagram)])
-[![Gmail]([https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00)\]\(mailto:[email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00\)](mailto:[email)])
-</div>
-<br>
+
+---
+
 ```bash
-fathan@dev:~$ echo "thanks for stopping by!" 
-> thanks for stopping by!
+fathan@dev:~$ echo "Thanks for stopping by!"
+> Thanks for stopping by!
 fathan@dev:~$ _
 ```
-<div align="center">
-<img src="[https://komarev.com/ghpvc/?username=fathanfadly&label=Visitors&color=000000&style=for-the-badge](https://komarev.com/ghpvc/?username=fathanfadly&label=Visitors&color=000000&style=for-the-badge)" alt="Profile Views" />
-</div>
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:0d1117&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:0d1117&height=100&section=footer)" width="100%" />
